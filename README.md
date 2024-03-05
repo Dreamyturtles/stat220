@@ -17,3 +17,4 @@
 Feel free to connect with me
 
 Additionally my Github Profile (https://github.com/Dreamyturtles)
+and my Github Repo (https://github.com/Dreamyturtles/stat220/blob/main/README.md)
